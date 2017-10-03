@@ -1,0 +1,15 @@
+{
+    "title": "windows 10 MF55",
+    "baseURL": "https:\/\/www.w10mf55.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758341",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "w10mf55.com"
+    }
+}
